@@ -1,4 +1,4 @@
 format short g;
-a = 5;
+a = 2;
 
 b = sqrt(a)
