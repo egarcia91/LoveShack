@@ -7,3 +7,5 @@ Simular server con graficos
 Levantar la info del Lapjack
 
 usando una Raspberry PI 3
+
+primer cambio
